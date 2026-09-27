@@ -1,0 +1,9 @@
+item_code,description,quantity,unit_price,supplier_id,date
+PRD-101,Hydraulic Valve,50,150.00,SUP-001,2026-01-15
+PRD-102,Control Sensor,,240.50,SUP-002,2026-01-16
+PRD-103,Turbine Blade,12,-99.00,SUP-001,2026-01-17
+,Mounting Bracket,100,45.00,SUP-003,2026-01-18
+PRD-105,Gasket Seal,200,12.50,SUP-002,2026-01-19
+PRD-106,Actuator Arm,30,85.00,SUP-001,2026-01-20
+PRD-107,Pressure Gauge,15,65.00,SUP-004,2026-01-21
+PRD-108,Power Module,10,310.00,SUP-003,2026-01-22
