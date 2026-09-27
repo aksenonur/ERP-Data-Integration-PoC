@@ -25,3 +25,4 @@ Veri Entegrasyonu, MRP Malzeme İhtiyaç Planlaması ve P2P Satın Alma onay sü
 
 ```bash
 python master_orchestrator.py
+```
