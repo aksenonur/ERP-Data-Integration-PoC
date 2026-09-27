@@ -18,3 +18,9 @@ Bu proje; veri bütünlüğünü sağlamak amacıyla geliştirilmiş bir **Proof
 - **Dil:** Python 3.x
 - **Kütüphaneler:** Pandas, Logging
 - **Veritabanı:** SQLite / SQL
+- 
+### Uçtan Uca (End-to-End) Pipeline Orkestrasyonu
+Veri Entegrasyonu, MRP Malzeme İhtiyaç Planlaması ve P2P Satın Alma onay süreçlerini tek bir akışta sıralı çalıştırmak için:
+
+```bash
+python master_orchestrator.py
