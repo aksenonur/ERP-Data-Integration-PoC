@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Database](https://img.shields.io/badge/Database-SQLite%20%2F%20SQL-green?style=for-the-badge&logo=sqlite)
 ![Status](https://img.shields.io/badge/Status-Completed%20PoC-orange?style=for-the-badge)
+
 # ERP Data Integration & Migration (Proof of Concept)
 
 ## Proje Kapsamı ve Mimari Yaklaşım
@@ -18,7 +19,7 @@ Bu proje; veri bütünlüğünü sağlamak amacıyla geliştirilmiş bir **Proof
 - **Dil:** Python 3.x
 - **Kütüphaneler:** Pandas, Logging
 - **Veritabanı:** SQLite / SQL
-- 
+
 ### Uçtan Uca (End-to-End) Pipeline Orkestrasyonu
 Veri Entegrasyonu, MRP Malzeme İhtiyaç Planlaması ve P2P Satın Alma onay süreçlerini tek bir akışta sıralı çalıştırmak için:
 
